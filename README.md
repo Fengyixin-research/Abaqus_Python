@@ -1,2 +1,2 @@
 # Abaqus_Python
-Source code in Python for secondary development  Abaqus
+Source code in Python for secondary development of Abaqus
